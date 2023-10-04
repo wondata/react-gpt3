@@ -1,3 +1,21 @@
+# Tutorial link
+[https://www.youtube.com/watch?v=F627pKNUCVQ&t=233s]
+
+# Create react app inside a folder
+  npx create-react-app ./
+
+# Install react icons
+  npm install react-icons
+
+# CSS naming standard
+  BEM -> Block Element Modifier
+
+# Animation CSS generator
+  [https://animista.net/play/basic/scale-up]
+
+# Gradient CSS generation
+  [https://angrytools.com/gradient/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
